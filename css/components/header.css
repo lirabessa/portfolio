@@ -10,6 +10,9 @@ header .header__left {
   max-width: 62rem;
   flex: 1;
 }
+.h2{
+  text-align: center;
+}
 
 header .header__left p {
   color: var(--white);
